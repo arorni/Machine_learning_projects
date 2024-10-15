@@ -1,4 +1,4 @@
-Python			            3.9.19
+Python			         3.9.19
 matplotlib              3.9.2
 numpy                   1.26.4
 pandas                  2.2.2
