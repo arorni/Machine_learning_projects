@@ -1,0 +1,10 @@
+Python			            3.9.19
+matplotlib              3.9.2
+numpy                   1.26.4
+pandas                  2.2.2
+seaborn                 0.13.2
+contextily              1.6.2
+geopandas               1.0.1
+geopy                   2.4.1
+shapely                 2.0.6
+vaex                    4.17.0
